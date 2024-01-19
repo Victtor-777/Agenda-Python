@@ -1,4 +1,3 @@
-# Agenda-Python
-
-## Projeto de uma pequena agenda em python, (projeto para a faculdade).
-Esse foi o meu primeiro programa.
+<p align="center">
+  <img src="./img/Github.png" width="100%" />
+</p>
