@@ -1,5 +1,3 @@
-#Aluno: Victtor Guilherme / Matrícula: 2372190063
-
 from time import sleep
 
 #Totas as Funções do Programa: (Poderia posteriormente ser utilizado módulos nessa parte das funções e só deixar o programa principal aqui)
